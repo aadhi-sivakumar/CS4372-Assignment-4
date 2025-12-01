@@ -1,0 +1,7 @@
+PRIDE AND PREJUDICE - Book Summary
+================================================================================
+
+Model: BART
+Configuration: Config 2: Longer Summary
+
+Lizzy Bennet asked her mother to introduce her father to Mr. Bingley. Her mother said that Mrs. Long had promised to introduce him. Mr. Bennet said that he would take it on himself. Mr Darcy was so popular that he was given a large estate in Derbyshire. Jane and Elizabeth Bingley met Mr. Darcy and his sisters. Catherine and Lydia Bennet lived in Longbourn, a village near Meryton. Their father had been an attorney in the town, and their mother had left her four thousand pounds.
